@@ -60,7 +60,7 @@ print(json.dumps(result))
 # # =========================
 # # SINGLE API CONFIG
 # # =========================
-# API_KEY = "AIzaSyD8H2gjqGJAO_N0jdDposoFWlJIqZoMZj0"
+# API_KEY = ""
 # MODEL = "gemini-2.0-flash-lite"  # default recommended model
 
 # # =========================
